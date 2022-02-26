@@ -1,0 +1,28 @@
+.navbar-card {
+    padding: 3vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F6F5F5;
+    margin-bottom: 30px;
+}
+
+.logo {
+    height: 8vh;
+}
+
+.button {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #058ff2;
+    border-width: 1.5px;
+    color: #058ff2;
+    background-color: transparent;
+    height: 36px;
+    width: 128px;
+    font-weight: 400;
+}
+
+.button:hover {
+    background-color: #058ff2;
+    color: white;
+}
